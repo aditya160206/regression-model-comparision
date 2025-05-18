@@ -4,11 +4,11 @@ This project compares the performance of three regression algorithms — **Linea
 
 ## Structure
 
-- `linear_regression.ipynb`: Implementation of Linear Regression
-- `decision_tree_regression.ipynb`: Implementation of Decision Tree
-- `random_forest_regression.ipynb`: Implementation of Random Forest
-- `linear_result.png`, `tree_result.png`, `forest_result.png`: Output graphs (RMSE, R², etc.)
-- `report.pdf`: Contains a summary of methods used and results
+- `Linearregressioncal.ipynb`: Implementation of Linear Regression
+- `Decisiontreecalifornia.ipynb`: Implementation of Decision Tree
+- `Randomforestcalifornia.ipynb`: Implementation of Random Forest
+- `Linear-regression-results.png`, `Decision-tree-results.png`, `Random-forest-results.png`: Output graphs (RMSE, R², Accuracy)
+- `Regression-project.pdf`: Contains a summary of methods used and results
 
 ## Metrics Used
 
